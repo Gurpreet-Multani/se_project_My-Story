@@ -1,8 +1,8 @@
 My Story - Personal Portfolio Website
-A personal portfolio website showcasing my personality, interests, and journey as a developer. This project represents my first foray into web development using HTML and CSS.
+A personal portfolio website celebrating my favorite hobbies and passions. This project represents my first foray into web development using HTML and CSS, where I've created a digital space to share the activities and interests that define who I am.
 
 🌟 About
-This website serves as a digital representation of who I am - my story, experiences, and personality. It's designed to give visitors insight into my background, interests, and what makes me unique.
+This website is a heartfelt showcase of my favorite hobbies and the things I'm passionate about. It's designed to give visitors an authentic glimpse into what drives me, what I enjoy doing in my free time, and the activities that bring joy to my life. From my creative pursuits to recreational interests, this site tells the story of who I am through the lens of what I love most.
 
 🚀 Live Demo
 Visit the live website: https://gurpreet-multani.github.io/se_project_My-Story
